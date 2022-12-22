@@ -1,3 +1,6 @@
+
+//S
+
 #include<stdio.h>
 int size;
 int top = -1;
@@ -68,7 +71,7 @@ int main(){
 
     int stack[size];
 
-    //system("clear");
+    //system('clear');
     int ch;
     while(1){
         printf("1.push data\n2.pop data\n3.peek data\n4.Display stack\n5.exit\n\nEnter your choice:\n");
